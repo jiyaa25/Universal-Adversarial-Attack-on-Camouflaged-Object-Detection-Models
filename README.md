@@ -18,7 +18,9 @@ Instead of generating noise for each image, a single perturbation is learned and
 ## Results
 - Clean Output: Accurate segmentation  
 - After Attack: Near-zero or suppressed masks  
-- Significant drop in performance metrics  
+- Significant drop in performance metrics
+- <img width="1184" height="395" alt="image" src="https://github.com/user-attachments/assets/41ec865c-2810-4dee-b590-16e4c586344e" />
+ 
 
 ---
 
